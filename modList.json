@@ -1,14 +1,21 @@
 {
+	"modulus": {
+		"version": "no one can do smth here",
+		"url": "https://www.curseforge.com/minecraft/mc-mods/moduluscore",
+		"description": {
+			"translate": "modulus.core"
+		}
+	},
 	"bruh": {
 		"version": "1.7.10",
-		"url": "https://www.youtube.com/",
+		"url": "https://www.curseforge.com/minecraft/mc-mods/moduluscore",
 		"description": {
-			"translate": "modulus.aboba"
+			"translate": "modulus.core"
 		}
 	},
 	"the_boys": {
 		"version": "0.1b",
 		"url": "https://www.patreon.com/",
-		"description": "Nothing......"
+		"description": ["Nothing......", "again nothing......", "i don't like to create smth like this"]
 	}
 }

@@ -1,22 +1,23 @@
 {
 	"modulus": {
-		"version": "no one can do smth here",
+		"version": "1.0",
 		"url": "https://www.curseforge.com/minecraft/mc-mods/moduluscore",
-		"description": {
-			"translate": "modulus.core"
-		}
-	},
-	"bruh": {
-		"version": "1.7.10",
-		"url": "https://www.youtube.com/",
-		"textureId": "empty",
-		"description": {
-			"translate": "modulus.core"
-		}
+		"description": ["The core for the mods created by Chappie is under constant development.", 
+		"Basically adding a lot of cool things for convenient writing of mods."]
 	},
 	"theboys": {
 		"version": "1.0",
-		"url": "https://www.patreon.com/",
-		"description": ["Nothing......", "again nothing......", "i don't like to create smth like this"]
+		"url": "https://www.curseforge.com/minecraft/mc-mods/theboys",
+		"description": ["\"The Boys\" mod, is based on the series of the same name, allows players to get into the role of superheroes.",
+			"It includes suits, weapons and abilities inspired by the world of The Boys.",
+			"This will enrich the gaming experience of fans of the series, allowing them to play as characters from this series."]
+	},
+	"jojoheaven": {
+		"version": "there's nothing that i can say here???",
+		"url": "https://www.youtube.com/",
+		"textureId": "empty",
+		"description": {
+			"translate": "gui.banned.description.unknownreason"
+		}
 	}
 }

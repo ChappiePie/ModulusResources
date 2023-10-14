@@ -8,13 +8,14 @@
 	},
 	"bruh": {
 		"version": "1.7.10",
-		"url": "https://www.curseforge.com/minecraft/mc-mods/moduluscore",
+		"url": "https://www.youtube.com/",
+		"textureId": "empty",
 		"description": {
 			"translate": "modulus.core"
 		}
 	},
-	"the_boys": {
-		"version": "0.1b",
+	"theboys": {
+		"version": "1.0",
 		"url": "https://www.patreon.com/",
 		"description": ["Nothing......", "again nothing......", "i don't like to create smth like this"]
 	}

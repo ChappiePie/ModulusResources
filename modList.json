@@ -1,18 +1,18 @@
 {
-	"Modulus": {
+	"modulus": {
 		"version": "1.0",
 		"url": "https://www.curseforge.com/minecraft/mc-mods/moduluscore",
 		"description": ["The core for the mods created by Chappie is under constant development.", 
 		"Basically adding a lot of cool things for convenient writing of mods."]
 	},
-	"The Boys": {
+	"theboys": {
 		"version": "1.0",
 		"url": "https://www.curseforge.com/minecraft/mc-mods/theboys",
 		"description": ["\"The Boys\" mod, is based on the series of the same name, allows players to get into the role of superheroes.",
 			"It includes suits, weapons and abilities inspired by the world of The Boys.",
 			"This will enrich the gaming experience of fans of the series, allowing them to play as characters from this series."]
 	},
-	"JoJoHeaven": {
+	"jojoheaven": {
 		"version": "there's nothing that i can say here???",
 		"url": "https://www.youtube.com/",
 		"textureId": "empty",

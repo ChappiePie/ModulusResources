@@ -11,19 +11,5 @@
 		"description": ["\"The Boys\" mod, is based on the series of the same name, allows players to get into the role of superheroes.",
 			"It includes suits, weapons and abilities inspired by the world of The Boys.",
 			"This will enrich the gaming experience of fans of the series, allowing them to play as characters from this series."]
-	},
-	"jojoheaven": {
-		"version": "there's nothing that i can say here???",
-		"url": "https://www.youtube.com/",
-		"textureId": "empty",
-		"description": {
-			"translate": "gui.banned.description.unknownreason"
-		}
-	},
-	"ambition": {
-		"version": "hi bro",
-		"url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D",
-		"textureId": "empty",
-		"description": ["Bro its prank"]
 	}
 }
